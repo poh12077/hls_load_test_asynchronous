@@ -1,14 +1,15 @@
 axios = require('axios');
 let fs = require('fs');
 
-const base_url = 'https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8';
+//const base_url = 'https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8';
 //const base_url = 'https://cph-msl.akamaized.net/hls/live/2000341/test/master.m3u8';  //akamai live
 //const base_url = 'http://192.168.0.124:1935/live/nana/playlist.m3u8';   //live   
-//const base_url = 'http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8';   //vod
+const base_url = 'http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8';   //vod
 
 let buffer=[];
-let ts_duration = 1000;
-let load=2;
+let ts_duration = 100;
+let load=3;
+
 let n = new Array(load);    //for request_ts_vod_fast
 n.fill(0);
 
@@ -83,7 +84,8 @@ let request_second_m3u8 = (url) =>
               buffer[i] = parser_url(url,buffer,i);
             }
            
-            startInterval(request_ts_vod, 0 , ts_duration);
+            //startInterval(request_ts_vod, 0 , ts_duration);
+            branch_all_together(request_ts_vod, load);
        }
        else
        {
@@ -104,6 +106,13 @@ let request_second_m3u8 = (url) =>
   });
 }
 
+let branch_all_together = (callback, load) =>
+{
+  for (let id=0;id<load;id++)
+  {
+    startInterval(callback, id , ts_duration);
+  }
+}
 
 
 let parser_m3u8 = (buffer, url) => 
