@@ -96,8 +96,7 @@ let request_second_m3u8 = (url) =>
             }
 
             startInterval(request_live_m3u8, url, ts_duration);
-           // branch_all_together(request_ts_live,load);
-            startInterval(request_ts_live, 0, ts_duration, 'immediate');
+            branch_all_together(request_ts_live,load);
        }
   })
   .catch( (error) => {
@@ -110,7 +109,7 @@ let branch_all_together = (callback, load) =>
 {
   for (let id=0;id<load;id++)
   {
-    startInterval(callback, id , ts_duration, immediate);
+    startInterval(callback, id , ts_duration, 'immediate');
   }
 }
 
