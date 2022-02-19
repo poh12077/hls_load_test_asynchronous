@@ -1,11 +1,12 @@
 axios = require('axios');
 let fs = require('fs');
 
-//const url = 'http://192.168.0.124:1935/live/nana/playlist.m3u8';   //live   
-const base_url = 'http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8';   //vod
+const base_url = 'https://cph-msl.akamaized.net/hls/live/2000341/test/master.m3u8';  //akamai live
+//const base_url = 'http://192.168.0.124:1935/live/nana/playlist.m3u8';   //live   
+//const base_url = 'http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8';   //vod
 
 let buffer=[];
-let ts_duration = 100;
+let ts_duration = 1000;
 let load=2;
 let n = new Array(load);    //for request_ts_vod_fast
 n.fill(0);
@@ -82,13 +83,20 @@ let request_second_m3u8 = (url) =>
             {
               buffer[i] = parser_url(url,buffer,i);
             }
-           startInterval(request_ts_vod, 0 , ts_duration);
-           return 0;
+           
+            startInterval(request_ts_vod, 0 , ts_duration);
        }
        else
        {
             buffer = buffer_cleaner(buffer);
+            
+            for(let i=0;i<buffer.length;i++)
+            {
+              buffer[i] = parser_url(url,buffer,i);
+            }
+
             startInterval(request_live_m3u8, url, ts_duration);
+            startInterval(request_ts_live, 0, ts_duration);
        }
   })
   .catch( (error) => {
@@ -126,6 +134,12 @@ let request_live_m3u8 = (url) =>
         console.log( response.status + " " + response.config.url);
         m3u8 = response.data.split("\n");
         m3u8 = buffer_cleaner(m3u8);
+       
+        for(let i=0;i<m3u8.length;i++)
+        {
+          m3u8[i] = parser_url(url,m3u8,i);
+        }
+
       buffer = buffer.concat(m3u8);
 
       buffer = new Set(buffer);
@@ -147,6 +161,30 @@ let startInterval = (callback, x, ts_duration ) =>
     , ts_duration );
 
     callback(x,  stop);
+}
+
+let request_ts_live = (id) =>
+{
+  if(n[id]>=buffer.length)
+  {
+    console.log(id + " " + "wait for new ts file");
+    return;
+  }
+
+  axios.get( buffer[ n[id] ] )
+  .then( (response) => 
+  {
+      console.log(id + " " + response.status + " " + response.config.url );
+     // logger_request(response.status + " " + ts_url , id);
+  })
+  .catch( (error) => {
+    console.log(id + " " + error);
+    //logger_request(error, id);
+  })
+  .then();
+
+  n[id]++;
+  // only for vod 
 }
 
 let request_ts_vod = (id, stop )=>
