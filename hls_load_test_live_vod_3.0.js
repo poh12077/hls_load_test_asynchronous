@@ -1,7 +1,8 @@
 axios = require('axios');
 let fs = require('fs');
 
-const base_url = 'https://cph-msl.akamaized.net/hls/live/2000341/test/master.m3u8';  //akamai live
+const base_url = 'https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8';
+//const base_url = 'https://cph-msl.akamaized.net/hls/live/2000341/test/master.m3u8';  //akamai live
 //const base_url = 'http://192.168.0.124:1935/live/nana/playlist.m3u8';   //live   
 //const base_url = 'http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8';   //vod
 
@@ -17,9 +18,7 @@ let parser_url = (url,buffer,i) =>
    url.pop();
    buffer = buffer[i].split('/'); // string to array
    
-   url = url.concat(buffer);  
-   url = new Set(url);
-   url = Array.from(url); 
+   url = duplication_eliminater(url,buffer);
 
    let url_string='';
    for ( let j=0;j<url.length;j++)
@@ -118,9 +117,14 @@ let parser_m3u8 = (buffer, url) =>
                request_second_m3u8(url);
                 return 0;    //break ABR
         }
-      
     }
-  
+}
+
+let duplication_eliminater = (array_1, array_2) =>
+{
+  array_1 = array_1.concat(array_2);
+  array_1 = new Set(array_1);
+  return Array.from(array_1); 
 }
 
 let request_live_m3u8 = (url) =>
@@ -140,11 +144,7 @@ let request_live_m3u8 = (url) =>
           m3u8[i] = parser_url(url,m3u8,i);
         }
 
-      buffer = buffer.concat(m3u8);
-
-      buffer = new Set(buffer);
-      buffer = Array.from(buffer); 
-      
+        buffer = duplication_eliminater(buffer,m3u8);
   })
   .catch( (error) => {
       //logger_request(error, id);
