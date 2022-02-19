@@ -2,10 +2,10 @@ axios = require('axios');
 let fs = require('fs');
 
 //const url = 'http://192.168.0.124:1935/live/nana/playlist.m3u8';   //live   
-const url = 'http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8';   //vod
+const base_url = 'http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8';   //vod
 
 let buffer=[];
-let ts_duration = 1000;
+let ts_duration = 100;
 let load=2;
 let n = new Array(load);    //for request_ts_vod_fast
 n.fill(0);
@@ -64,6 +64,7 @@ let buffer_cleaner = (buffer) =>
     return cleaned_buffer;
 }
 
+
 let request_second_m3u8 = (url) =>
 {
   axios.get(url)
@@ -76,6 +77,11 @@ let request_second_m3u8 = (url) =>
         if( buffer[ buffer.length-2 ] == '#EXT-X-ENDLIST')
        {
            buffer = buffer_cleaner(buffer);
+
+            for(let i=0;i<buffer.length;i++)
+            {
+              buffer[i] = parser_url(url,buffer,i);
+            }
            startInterval(request_ts_vod, 0 , ts_duration);
            return 0;
        }
@@ -166,5 +172,5 @@ let request_ts_vod = (id, stop )=>
     }
 }
 
-request_first_m3u8(url);
+request_first_m3u8(base_url);
 
