@@ -1,5 +1,6 @@
 axios = require('axios');
 let fs = require('fs');
+const { start } = require('repl');
 
 //const base_url = 'https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8';
 //const base_url = 'https://cph-msl.akamaized.net/hls/live/2000341/test/master.m3u8';  //akamai live
@@ -8,7 +9,8 @@ const base_url = 'http://192.168.0.124:1935/live/nana/playlist.m3u8';   //live
 
 let buffer=[];
 let ts_duration = 2000;
-let load=2;
+let load=4;
+let d=ts_duration/1000;
 
 let n = new Array(load);    //for request_ts_vod_fast
 n.fill(0);
@@ -83,8 +85,8 @@ let request_second_m3u8 = (url) =>
             {
               buffer[i] = parser_url(url,buffer,i);
             }
-           
-            branch_all_together(request_ts_vod, load);
+           startInterval(branch, request_ts_vod, 1000, 'immediate');
+            //branch_all_together(request_ts_vod);
        }
        else
        {
@@ -96,7 +98,8 @@ let request_second_m3u8 = (url) =>
             }
 
             startInterval(request_live_m3u8, url, ts_duration);
-            branch_all_together(request_ts_live,load);
+            startInterval(branch, request_ts_live, 1000, 'immediate');
+           // branch_all_together(request_ts_live);
        }
   })
   .catch( (error) => {
@@ -105,11 +108,27 @@ let request_second_m3u8 = (url) =>
   });
 }
 
-let branch_all_together = (callback, load) =>
+let branch_all_together = (callback) =>
 {
   for (let id=0;id<load;id++)
   {
     startInterval(callback, id , ts_duration, 'immediate');
+  }
+}
+
+
+let s=0;
+
+let branch = (callback, stop) =>
+{
+  for (let id = (load/d) * s; id< (load/d) * (s+1); id++)
+  {
+    startInterval(callback, id , ts_duration, 'immediate');
+  }
+  s++;
+  if (s==d)
+  {
+      clearInterval(stop);
   }
 }
 
@@ -160,13 +179,13 @@ let request_live_m3u8 = (url) =>
   });
 }
 
-let startInterval = (callback, x, ts_duration, immediate) => 
+let startInterval = (callback, x, time, immediate) => 
 {
     let stop = setInterval( () => 
     {
         callback(x, stop) 
     }
-    , ts_duration );
+    , time );
 
     if(immediate == 'immediate')
     {
