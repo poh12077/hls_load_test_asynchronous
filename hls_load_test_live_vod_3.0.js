@@ -8,8 +8,8 @@ const base_url = 'http://192.168.0.124:1935/live/nana/playlist.m3u8';   //live
 //const base_url = 'http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8';   //vod
 
 let buffer=[];
-let ts_duration = 2000;
-let load=4;
+let ts_duration = 15000;
+let load=15;
 let d=ts_duration/1000;
 
 let n = new Array(load);    //for request_ts_vod_fast
@@ -41,7 +41,7 @@ let request_first_m3u8 = (url) =>
   axios.get(url)
   .then( (response) => 
   {
-       // logger_time(id);
+        logger(response.status + " " + response.config.url);
         //logger_request(response.status + " " + response.config.url, id);
         console.log( response.status + " " + response.config.url);
         buffer = response.data.split("\n");
@@ -49,7 +49,7 @@ let request_first_m3u8 = (url) =>
   
   })
   .catch( (error) => {
-      //logger_request(error, id);
+      logger(error);
     console.log(error);
   });
 }
@@ -73,8 +73,7 @@ let request_second_m3u8 = (url) =>
   axios.get(url)
   .then( (response) => 
   {
-       // logger_time(id);
-        //logger_request(response.status + " " + response.config.url, id);
+        logger(response.status + " " + response.config.url);
         console.log( response.status + " " + response.config.url);
         buffer = response.data.split("\n");
         if( buffer[ buffer.length-2 ] == '#EXT-X-ENDLIST')
@@ -103,7 +102,7 @@ let request_second_m3u8 = (url) =>
        }
   })
   .catch( (error) => {
-      //logger_request(error, id);
+      logger(error);
     console.log(error);
   });
 }
@@ -161,7 +160,7 @@ let request_live_m3u8 = (url) =>
   .then( (response) => 
   {
        // logger_time(id);
-        //logger_request(response.status + " " + response.config.url, id);
+        logger(response.status + " " + response.config.url);
         console.log( response.status + " " + response.config.url);
         m3u8 = response.data.split("\n");
         m3u8 = buffer_cleaner(m3u8);
@@ -174,7 +173,7 @@ let request_live_m3u8 = (url) =>
         buffer = duplication_eliminater(buffer,m3u8);
   })
   .catch( (error) => {
-      //logger_request(error, id);
+      logger(error);
     console.log(error);
   });
 }
@@ -198,6 +197,7 @@ let request_ts_live = (id) =>
   if(n[id]>=buffer.length)
   {
     console.log(id + " " + "wait for new ts file");
+    logger("wait for new ts file", id);
     return;
   }
 
@@ -205,11 +205,11 @@ let request_ts_live = (id) =>
   .then( (response) => 
   {
       console.log(id + " " + response.status + " " + response.config.url );
-     // logger_request(response.status + " " + ts_url , id);
+      logger(response.status + " " + response.config.url , id);
   })
   .catch( (error) => {
     console.log(id + " " + error);
-    //logger_request(error, id);
+    logger(error, id);
   })
   .then();
 
@@ -223,11 +223,11 @@ let request_ts_vod = (id, stop )=>
     .then( (response) => 
     {
         console.log(id + " " + response.status + " " + response.config.url );
-       // logger_request(response.status + " " + ts_url , id);
+        logger(response.status + " " + response.config.url , id);
     })
     .catch( (error) => {
       console.log(id + " " + error);
-      //logger_request(error, id);
+      logger(error, id);
     })
     .then();
 
@@ -238,6 +238,37 @@ let request_ts_vod = (id, stop )=>
         clearInterval(stop);
         n[id]=0;
     }
+}
+
+let logger = (url, id) => 
+{
+  let time = new Date();
+  let mininute = time.getMinutes();
+  let second = time.getSeconds();
+  //time = mininute.concat( ' : ', second);
+  time = mininute + ' : ' + second;
+
+  if ( typeof(id) == 'undefined')
+  {
+    fs.appendFile('request.log', url + " " + time + "\n" , 'utf-8', function(e)
+    {
+        if(e){
+            console.log(e);
+        }else{
+        }
+    });
+  }
+  else
+  {
+    fs.appendFile('request.log', id + " " + url + ' ' + time +  "\n" , 'utf-8', function(e)
+    {
+        if(e){
+            console.log(e);
+        }else{
+        }
+    });
+  }
+    
 }
 
 request_first_m3u8(base_url);
