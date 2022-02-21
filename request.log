@@ -328,3 +328,51 @@ ReferenceError: id is not defined
 11 200 http://192.168.0.124:1935/live/nana/media_w2079053104_3509.ts 53 : 16
 12 200 http://192.168.0.124:1935/live/nana/media_w2079053104_3509.ts 53 : 17
 13 200 http://192.168.0.124:1935/live/nana/media_w2079053104_3509.ts 53 : 18
+200 http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8 43 : 33
+200 http://192.168.0.124:1935/vod/mp4:sample.mp4/chunklist_w1506013613.m3u8 43 : 33
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 33
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 34
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 35
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 36
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 37
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 38
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 39
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 40
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 41
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 42
+10 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 43
+11 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 44
+12 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 45
+13 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 46
+14 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_0.ts 43 : 47
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 48
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 49
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 50
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 51
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 52
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 53
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 54
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 55
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 56
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 57
+10 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 58
+11 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 43 : 59
+12 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 44 : 0
+13 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 44 : 1
+14 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_1.ts 44 : 2
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_2.ts 44 : 3
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_2.ts 44 : 4
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_2.ts 44 : 5
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_2.ts 44 : 6
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_2.ts 44 : 7
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_2.ts 44 : 8
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_2.ts 44 : 9
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1506013613_2.ts 44 : 10
+200 http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8 5 : 16
+200 http://192.168.0.124:1935/vod/mp4:sample.mp4/chunklist_w2126922801.m3u8 5 : 16
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w2126922801_0.ts 5 : 17
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w2126922801_0.ts 5 : 18
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w2126922801_0.ts 5 : 19
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w2126922801_0.ts 5 : 20
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w2126922801_0.ts 5 : 21
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w2126922801_0.ts 5 : 22

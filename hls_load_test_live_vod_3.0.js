@@ -4,8 +4,8 @@ const { start } = require('repl');
 
 //const base_url = 'https://multiplatform-f.akamaihd.net/i/multi/will/bunny/big_buck_bunny_,640x360_400,640x360_700,640x360_1000,950x540_1500,.f4v.csmil/master.m3u8';
 //const base_url = 'https://cph-msl.akamaized.net/hls/live/2000341/test/master.m3u8';  //akamai live
-const base_url = 'http://192.168.0.124:1935/live/nana/playlist.m3u8';   //live   
-//const base_url = 'http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8';   //vod
+//const base_url = 'http://192.168.0.124:1935/live/nana/playlist.m3u8';   //live   
+const base_url = 'http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8';   //vod
 
 let buffer=[];
 let ts_duration = 15000;
@@ -14,6 +14,9 @@ let d=ts_duration/1000;
 
 let n = new Array(load);    //for request_ts_vod_fast
 n.fill(0);
+
+//host setting 
+//axios.defaults.headers.common['host'] = 'value';
 
 let parser_url = (url,buffer,i) =>
 {
@@ -38,7 +41,12 @@ let parser_url = (url,buffer,i) =>
 
 let request_first_m3u8 = (url) =>
 {
-  axios.get(url)
+  axios.get(url
+  //   , {    headers: {
+  //   'host': 'value'
+  //   }
+  // }
+  )
   .then( (response) => 
   {
         logger(response.status + " " + response.config.url);
