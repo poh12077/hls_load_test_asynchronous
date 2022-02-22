@@ -8,15 +8,15 @@ const { start } = require('repl');
 const base_url = 'http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8';   //vod
 
 let buffer=[];
-let ts_duration = 15000;
-let load=15;
+let ts_duration = 5000;
+let load=10;
 let d=ts_duration/1000;
 
 let n = new Array(load);    //for request_ts_vod_fast
 n.fill(0);
 
 //host setting 
-//axios.defaults.headers.common['host'] = 'value';
+axios.defaults.headers.common['host'] = 'origin.media.com';
 
 let parser_url = (url,buffer,i) =>
 {
@@ -92,8 +92,9 @@ let request_second_m3u8 = (url) =>
             {
               buffer[i] = parser_url(url,buffer,i);
             }
-           startInterval(branch, request_ts_vod, 1000, 'immediate');
+           //startInterval(branch_every_second, request_ts_vod, 1000, 'immediate');
             //branch_all_together(request_ts_vod);
+            branch_ramdomly(request_ts_vod);
        }
        else
        {
@@ -105,7 +106,7 @@ let request_second_m3u8 = (url) =>
             }
 
             startInterval(request_live_m3u8, url, ts_duration);
-            startInterval(branch, request_ts_live, 1000, 'immediate');
+            startInterval(brabranch_every_secondnch, request_ts_live, 1000, 'immediate');
            // branch_all_together(request_ts_live);
        }
   })
@@ -123,10 +124,25 @@ let branch_all_together = (callback) =>
   }
 }
 
-
+let branch_ramdomly = (callback) =>
+{
+  for (let id=0; id<load; id++)
+  {
+      let r = Math.random();
+      r*=ts_duration;
+      setTimeout
+      (
+          () => 
+          {
+              startInterval(callback, id ,ts_duration,'immediate' );
+          } , 
+          r
+      );
+  }
+}
 let s=0;
 
-let branch = (callback, stop) =>
+let branch_every_second = (callback, stop) =>
 {
   for (let id = (load/d) * s; id< (load/d) * (s+1); id++)
   {
