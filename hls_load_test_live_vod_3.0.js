@@ -267,10 +267,11 @@ let request_ts_vod = (id, stop )=>
 let logger = (url, id) => 
 {
   let time = new Date();
+  let hour = time.getHours();
   let mininute = time.getMinutes();
   let second = time.getSeconds();
   //time = mininute.concat( ' : ', second);
-  time = mininute + ' : ' + second;
+  time =  hour + ' : ' + mininute + ' : ' + second;
 
   if ( typeof(id) == 'undefined')
   {
