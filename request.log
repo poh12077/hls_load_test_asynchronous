@@ -1,0 +1,1207 @@
+200 http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8 17 : 23 : 44
+200 http://192.168.0.124:1935/vod/mp4:sample.mp4/chunklist_w1203692519.m3u8 17 : 23 : 44
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_0.ts 17 : 23 : 46
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_0.ts 17 : 23 : 47
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_0.ts 17 : 23 : 49
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_0.ts 17 : 23 : 49
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_0.ts 17 : 23 : 50
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_0.ts 17 : 23 : 51
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_0.ts 17 : 23 : 52
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_0.ts 17 : 23 : 52
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_0.ts 17 : 23 : 53
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_0.ts 17 : 23 : 53
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_1.ts 17 : 23 : 56
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_1.ts 17 : 23 : 57
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_1.ts 17 : 23 : 59
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_1.ts 17 : 23 : 59
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_1.ts 17 : 24 : 0
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_1.ts 17 : 24 : 1
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_1.ts 17 : 24 : 2
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_1.ts 17 : 24 : 2
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_1.ts 17 : 24 : 3
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_1.ts 17 : 24 : 3
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_2.ts 17 : 24 : 6
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_2.ts 17 : 24 : 7
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_2.ts 17 : 24 : 9
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_2.ts 17 : 24 : 9
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_2.ts 17 : 24 : 10
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_2.ts 17 : 24 : 11
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_2.ts 17 : 24 : 12
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_2.ts 17 : 24 : 12
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_2.ts 17 : 24 : 13
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_2.ts 17 : 24 : 13
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_3.ts 17 : 24 : 16
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_3.ts 17 : 24 : 17
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_3.ts 17 : 24 : 19
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_3.ts 17 : 24 : 19
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_3.ts 17 : 24 : 20
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_3.ts 17 : 24 : 21
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_3.ts 17 : 24 : 22
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_3.ts 17 : 24 : 22
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_3.ts 17 : 24 : 23
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_3.ts 17 : 24 : 23
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_4.ts 17 : 24 : 26
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_4.ts 17 : 24 : 27
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_4.ts 17 : 24 : 29
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_4.ts 17 : 24 : 29
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_4.ts 17 : 24 : 30
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_4.ts 17 : 24 : 31
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_4.ts 17 : 24 : 32
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_4.ts 17 : 24 : 32
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_4.ts 17 : 24 : 33
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_4.ts 17 : 24 : 33
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_5.ts 17 : 24 : 36
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_5.ts 17 : 24 : 37
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_5.ts 17 : 24 : 39
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_5.ts 17 : 24 : 39
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_5.ts 17 : 24 : 40
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_5.ts 17 : 24 : 41
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_5.ts 17 : 24 : 42
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_5.ts 17 : 24 : 42
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1203692519_5.ts 17 : 24 : 43
+200 http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8 17 : 51 : 46
+200 http://192.168.0.124:1935/vod/mp4:sample.mp4/chunklist_w197373128.m3u8 17 : 51 : 46
+200 http://192.168.0.124:1935/vod/mp4:sample.mp4/playlist.m3u8 18 : 14 : 34
+200 http://192.168.0.124:1935/vod/mp4:sample.mp4/chunklist_w1356148532.m3u8 18 : 14 : 34
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_0.ts 18 : 14 : 35
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_0.ts 18 : 14 : 36
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_0.ts 18 : 14 : 36
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_0.ts 18 : 14 : 36
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_0.ts 18 : 14 : 38
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_0.ts 18 : 14 : 39
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_0.ts 18 : 14 : 39
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_0.ts 18 : 14 : 41
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_0.ts 18 : 14 : 42
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_0.ts 18 : 14 : 44
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_1.ts 18 : 14 : 45
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_1.ts 18 : 14 : 45
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_1.ts 18 : 14 : 46
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_1.ts 18 : 14 : 46
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_1.ts 18 : 14 : 48
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_1.ts 18 : 14 : 49
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_1.ts 18 : 14 : 50
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_1.ts 18 : 14 : 51
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_1.ts 18 : 14 : 52
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_1.ts 18 : 14 : 54
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_2.ts 18 : 14 : 55
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_2.ts 18 : 14 : 56
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_2.ts 18 : 14 : 56
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_2.ts 18 : 14 : 56
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_2.ts 18 : 14 : 58
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_2.ts 18 : 14 : 59
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_2.ts 18 : 14 : 59
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_2.ts 18 : 15 : 1
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_2.ts 18 : 15 : 2
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_2.ts 18 : 15 : 4
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_3.ts 18 : 15 : 5
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_3.ts 18 : 15 : 6
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_3.ts 18 : 15 : 6
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_3.ts 18 : 15 : 6
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_3.ts 18 : 15 : 8
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_3.ts 18 : 15 : 9
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_3.ts 18 : 15 : 10
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_3.ts 18 : 15 : 11
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_3.ts 18 : 15 : 12
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_3.ts 18 : 15 : 14
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_4.ts 18 : 15 : 15
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_4.ts 18 : 15 : 16
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_4.ts 18 : 15 : 16
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_4.ts 18 : 15 : 16
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_4.ts 18 : 15 : 18
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_4.ts 18 : 15 : 19
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_4.ts 18 : 15 : 20
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_4.ts 18 : 15 : 21
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_4.ts 18 : 15 : 22
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_4.ts 18 : 15 : 24
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_5.ts 18 : 15 : 25
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_5.ts 18 : 15 : 26
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_5.ts 18 : 15 : 26
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_5.ts 18 : 15 : 26
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_5.ts 18 : 15 : 28
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_5.ts 18 : 15 : 30
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_5.ts 18 : 15 : 30
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_5.ts 18 : 15 : 31
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_5.ts 18 : 15 : 32
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_5.ts 18 : 15 : 34
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_6.ts 18 : 15 : 35
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_6.ts 18 : 15 : 36
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_6.ts 18 : 15 : 36
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_6.ts 18 : 15 : 36
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_6.ts 18 : 15 : 38
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_6.ts 18 : 15 : 40
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_6.ts 18 : 15 : 40
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_6.ts 18 : 15 : 41
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_6.ts 18 : 15 : 42
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_6.ts 18 : 15 : 44
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_7.ts 18 : 15 : 45
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_7.ts 18 : 15 : 46
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_7.ts 18 : 15 : 46
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_7.ts 18 : 15 : 46
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_7.ts 18 : 15 : 48
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_7.ts 18 : 15 : 50
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_7.ts 18 : 15 : 50
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_7.ts 18 : 15 : 51
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_7.ts 18 : 15 : 52
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_7.ts 18 : 15 : 54
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_8.ts 18 : 15 : 55
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_8.ts 18 : 15 : 56
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_8.ts 18 : 15 : 56
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_8.ts 18 : 15 : 56
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_8.ts 18 : 15 : 58
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_8.ts 18 : 16 : 0
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_8.ts 18 : 16 : 0
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_8.ts 18 : 16 : 1
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_8.ts 18 : 16 : 2
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_8.ts 18 : 16 : 4
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_9.ts 18 : 16 : 5
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_9.ts 18 : 16 : 6
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_9.ts 18 : 16 : 6
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_9.ts 18 : 16 : 6
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_9.ts 18 : 16 : 8
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_9.ts 18 : 16 : 10
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_9.ts 18 : 16 : 10
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_9.ts 18 : 16 : 11
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_9.ts 18 : 16 : 12
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_9.ts 18 : 16 : 14
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_10.ts 18 : 16 : 15
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_10.ts 18 : 16 : 16
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_10.ts 18 : 16 : 16
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_10.ts 18 : 16 : 16
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_10.ts 18 : 16 : 18
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_10.ts 18 : 16 : 20
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_10.ts 18 : 16 : 20
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_10.ts 18 : 16 : 21
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_10.ts 18 : 16 : 22
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_10.ts 18 : 16 : 24
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_11.ts 18 : 16 : 25
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_11.ts 18 : 16 : 26
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_11.ts 18 : 16 : 26
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_11.ts 18 : 16 : 26
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_11.ts 18 : 16 : 28
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_11.ts 18 : 16 : 30
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_11.ts 18 : 16 : 30
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_11.ts 18 : 16 : 31
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_11.ts 18 : 16 : 32
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_11.ts 18 : 16 : 34
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_12.ts 18 : 16 : 35
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_12.ts 18 : 16 : 36
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_12.ts 18 : 16 : 36
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_12.ts 18 : 16 : 36
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_12.ts 18 : 16 : 38
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_12.ts 18 : 16 : 40
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_12.ts 18 : 16 : 40
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_12.ts 18 : 16 : 41
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_12.ts 18 : 16 : 42
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_12.ts 18 : 16 : 44
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_13.ts 18 : 16 : 45
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_13.ts 18 : 16 : 46
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_13.ts 18 : 16 : 46
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_13.ts 18 : 16 : 46
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_13.ts 18 : 16 : 48
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_13.ts 18 : 16 : 50
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_13.ts 18 : 16 : 50
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_13.ts 18 : 16 : 51
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_13.ts 18 : 16 : 52
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_13.ts 18 : 16 : 54
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_14.ts 18 : 16 : 55
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_14.ts 18 : 16 : 56
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_14.ts 18 : 16 : 56
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_14.ts 18 : 16 : 56
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_14.ts 18 : 16 : 58
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_14.ts 18 : 17 : 0
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_14.ts 18 : 17 : 0
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_14.ts 18 : 17 : 1
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_14.ts 18 : 17 : 2
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_14.ts 18 : 17 : 4
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_15.ts 18 : 17 : 5
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_15.ts 18 : 17 : 6
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_15.ts 18 : 17 : 6
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_15.ts 18 : 17 : 6
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_15.ts 18 : 17 : 8
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_15.ts 18 : 17 : 10
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_15.ts 18 : 17 : 10
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_15.ts 18 : 17 : 12
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_15.ts 18 : 17 : 12
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_15.ts 18 : 17 : 14
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_16.ts 18 : 17 : 15
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_16.ts 18 : 17 : 16
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_16.ts 18 : 17 : 16
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_16.ts 18 : 17 : 16
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_16.ts 18 : 17 : 18
+2 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_16.ts 18 : 17 : 20
+8 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_16.ts 18 : 17 : 20
+0 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_16.ts 18 : 17 : 22
+5 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_16.ts 18 : 17 : 22
+9 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_16.ts 18 : 17 : 24
+1 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_17.ts 18 : 17 : 25
+6 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_17.ts 18 : 17 : 26
+4 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_17.ts 18 : 17 : 26
+7 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_17.ts 18 : 17 : 26
+3 200 http://192.168.0.124:1935/vod/mp4:sample.mp4/media_w1356148532_17.ts 18 : 17 : 28
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 7 : 42
+200 http://192.168.0.124:1935/live/nana/chunklist_w126658195.m3u8 22 : 7 : 42
+1 200 http://192.168.0.124:1935/live/nana/media_w126658195_12.ts 22 : 7 : 43
+200 http://192.168.0.124:1935/live/nana/chunklist_w126658195.m3u8 22 : 7 : 43
+0 200 http://192.168.0.124:1935/live/nana/media_w126658195_12.ts 22 : 7 : 43
+1 200 http://192.168.0.124:1935/live/nana/media_w126658195_13.ts 22 : 7 : 44
+200 http://192.168.0.124:1935/live/nana/chunklist_w126658195.m3u8 22 : 7 : 44
+0 200 http://192.168.0.124:1935/live/nana/media_w126658195_13.ts 22 : 7 : 44
+1 200 http://192.168.0.124:1935/live/nana/media_w126658195_14.ts 22 : 7 : 45
+200 http://192.168.0.124:1935/live/nana/chunklist_w126658195.m3u8 22 : 7 : 45
+0 200 http://192.168.0.124:1935/live/nana/media_w126658195_14.ts 22 : 7 : 45
+1 200 http://192.168.0.124:1935/live/nana/media_w126658195_15.ts 22 : 7 : 46
+0 200 http://192.168.0.124:1935/live/nana/media_w126658195_15.ts 22 : 7 : 46
+200 http://192.168.0.124:1935/live/nana/chunklist_w126658195.m3u8 22 : 7 : 46
+1 wait for new ts file 22 : 7 : 46
+0 wait for new ts file 22 : 7 : 46
+200 http://192.168.0.124:1935/live/nana/chunklist_w126658195.m3u8 22 : 7 : 47
+1 wait for new ts file 22 : 7 : 47
+0 wait for new ts file 22 : 7 : 47
+200 http://192.168.0.124:1935/live/nana/chunklist_w126658195.m3u8 22 : 7 : 48
+1 wait for new ts file 22 : 7 : 48
+0 wait for new ts file 22 : 7 : 48
+200 http://192.168.0.124:1935/live/nana/chunklist_w126658195.m3u8 22 : 7 : 49
+1 wait for new ts file 22 : 7 : 49
+0 wait for new ts file 22 : 7 : 49
+200 http://192.168.0.124:1935/live/nana/chunklist_w126658195.m3u8 22 : 7 : 50
+1 wait for new ts file 22 : 7 : 50
+0 wait for new ts file 22 : 7 : 50
+200 http://192.168.0.124:1935/live/nana/chunklist_w126658195.m3u8 22 : 7 : 51
+1 wait for new ts file 22 : 7 : 51
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 8 : 0
+200 http://192.168.0.124:1935/live/nana/chunklist_w1921668134.m3u8 22 : 8 : 0
+2 200 http://192.168.0.124:1935/live/nana/media_w1921668134_14.ts 22 : 8 : 1
+3 200 http://192.168.0.124:1935/live/nana/media_w1921668134_14.ts 22 : 8 : 1
+0 200 http://192.168.0.124:1935/live/nana/media_w1921668134_14.ts 22 : 8 : 2
+200 http://192.168.0.124:1935/live/nana/chunklist_w1921668134.m3u8 22 : 8 : 2
+4 200 http://192.168.0.124:1935/live/nana/media_w1921668134_14.ts 22 : 8 : 2
+1 200 http://192.168.0.124:1935/live/nana/media_w1921668134_14.ts 22 : 8 : 2
+2 200 http://192.168.0.124:1935/live/nana/media_w1921668134_15.ts 22 : 8 : 3
+200 http://192.168.0.124:1935/live/nana/chunklist_w1921668134.m3u8 22 : 8 : 3
+3 200 http://192.168.0.124:1935/live/nana/media_w1921668134_15.ts 22 : 8 : 3
+0 200 http://192.168.0.124:1935/live/nana/media_w1921668134_15.ts 22 : 8 : 3
+4 200 http://192.168.0.124:1935/live/nana/media_w1921668134_15.ts 22 : 8 : 4
+2 wait for new ts file 22 : 8 : 4
+200 http://192.168.0.124:1935/live/nana/chunklist_w1921668134.m3u8 22 : 8 : 4
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 8 : 8
+200 http://192.168.0.124:1935/live/nana/chunklist_w778180649.m3u8 22 : 8 : 8
+1 200 http://192.168.0.124:1935/live/nana/media_w778180649_15.ts 22 : 8 : 8
+0 200 http://192.168.0.124:1935/live/nana/media_w778180649_15.ts 22 : 8 : 9
+4 200 http://192.168.0.124:1935/live/nana/media_w778180649_15.ts 22 : 8 : 9
+3 200 http://192.168.0.124:1935/live/nana/media_w778180649_15.ts 22 : 8 : 9
+200 http://192.168.0.124:1935/live/nana/chunklist_w778180649.m3u8 22 : 8 : 9
+0 200 http://192.168.0.124:1935/live/nana/media_w778180649_16.ts 22 : 8 : 10
+4 200 http://192.168.0.124:1935/live/nana/media_w778180649_16.ts 22 : 8 : 10
+1 200 http://192.168.0.124:1935/live/nana/media_w778180649_16.ts 22 : 8 : 10
+2 200 http://192.168.0.124:1935/live/nana/media_w778180649_15.ts 22 : 8 : 10
+200 http://192.168.0.124:1935/live/nana/chunklist_w778180649.m3u8 22 : 8 : 11
+3 200 http://192.168.0.124:1935/live/nana/media_w778180649_16.ts 22 : 8 : 11
+1 200 http://192.168.0.124:1935/live/nana/media_w778180649_17.ts 22 : 8 : 11
+4 200 http://192.168.0.124:1935/live/nana/media_w778180649_17.ts 22 : 8 : 11
+2 200 http://192.168.0.124:1935/live/nana/media_w778180649_16.ts 22 : 8 : 12
+3 200 http://192.168.0.124:1935/live/nana/media_w778180649_17.ts 22 : 8 : 12
+0 200 http://192.168.0.124:1935/live/nana/media_w778180649_17.ts 22 : 8 : 12
+1 wait for new ts file 22 : 8 : 12
+0 wait for new ts file 22 : 8 : 12
+4 wait for new ts file 22 : 8 : 12
+3 wait for new ts file 22 : 8 : 12
+200 http://192.168.0.124:1935/live/nana/chunklist_w778180649.m3u8 22 : 8 : 12
+2 200 http://192.168.0.124:1935/live/nana/media_w778180649_17.ts 22 : 8 : 12
+200 http://192.168.0.124:1935/live/nana/chunklist_w778180649.m3u8 22 : 8 : 13
+1 200 http://192.168.0.124:1935/live/nana/media_w778180649_18.ts 22 : 8 : 14
+4 200 http://192.168.0.124:1935/live/nana/media_w778180649_18.ts 22 : 8 : 14
+3 200 http://192.168.0.124:1935/live/nana/media_w778180649_18.ts 22 : 8 : 14
+2 200 http://192.168.0.124:1935/live/nana/media_w778180649_18.ts 22 : 8 : 14
+0 200 http://192.168.0.124:1935/live/nana/media_w778180649_18.ts 22 : 8 : 14
+2 wait for new ts file 22 : 8 : 14
+1 wait for new ts file 22 : 8 : 14
+0 wait for new ts file 22 : 8 : 14
+4 wait for new ts file 22 : 8 : 14
+3 wait for new ts file 22 : 8 : 14
+200 http://192.168.0.124:1935/live/nana/chunklist_w778180649.m3u8 22 : 8 : 14
+2 wait for new ts file 22 : 8 : 15
+1 wait for new ts file 22 : 8 : 15
+0 wait for new ts file 22 : 8 : 15
+4 wait for new ts file 22 : 8 : 15
+3 wait for new ts file 22 : 8 : 15
+200 http://192.168.0.124:1935/live/nana/chunklist_w778180649.m3u8 22 : 8 : 15
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 10 : 7
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 7
+2 200 http://192.168.0.124:1935/live/nana/media_w448706747_27.ts 22 : 10 : 8
+0 200 http://192.168.0.124:1935/live/nana/media_w448706747_27.ts 22 : 10 : 8
+4 200 http://192.168.0.124:1935/live/nana/media_w448706747_27.ts 22 : 10 : 9
+1 200 http://192.168.0.124:1935/live/nana/media_w448706747_27.ts 22 : 10 : 9
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 9
+3 200 http://192.168.0.124:1935/live/nana/media_w448706747_27.ts 22 : 10 : 10
+0 200 http://192.168.0.124:1935/live/nana/media_w448706747_28.ts 22 : 10 : 10
+4 200 http://192.168.0.124:1935/live/nana/media_w448706747_28.ts 22 : 10 : 11
+2 200 http://192.168.0.124:1935/live/nana/media_w448706747_28.ts 22 : 10 : 10
+1 200 http://192.168.0.124:1935/live/nana/media_w448706747_28.ts 22 : 10 : 10
+3 200 http://192.168.0.124:1935/live/nana/media_w448706747_28.ts 22 : 10 : 11
+2 wait for new ts file 22 : 10 : 11
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 11
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 11
+2 200 http://192.168.0.124:1935/live/nana/media_w448706747_29.ts 22 : 10 : 12
+3 200 http://192.168.0.124:1935/live/nana/media_w448706747_29.ts 22 : 10 : 12
+4 200 http://192.168.0.124:1935/live/nana/media_w448706747_29.ts 22 : 10 : 13
+0 200 http://192.168.0.124:1935/live/nana/media_w448706747_29.ts 22 : 10 : 12
+1 200 http://192.168.0.124:1935/live/nana/media_w448706747_29.ts 22 : 10 : 12
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 13
+2 200 http://192.168.0.124:1935/live/nana/media_w448706747_30.ts 22 : 10 : 13
+3 200 http://192.168.0.124:1935/live/nana/media_w448706747_30.ts 22 : 10 : 14
+0 200 http://192.168.0.124:1935/live/nana/media_w448706747_30.ts 22 : 10 : 13
+1 200 http://192.168.0.124:1935/live/nana/media_w448706747_30.ts 22 : 10 : 14
+4 200 http://192.168.0.124:1935/live/nana/media_w448706747_30.ts 22 : 10 : 14
+1 wait for new ts file 22 : 10 : 14
+0 wait for new ts file 22 : 10 : 14
+4 wait for new ts file 22 : 10 : 14
+3 wait for new ts file 22 : 10 : 14
+2 wait for new ts file 22 : 10 : 14
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 14
+1 wait for new ts file 22 : 10 : 15
+4 wait for new ts file 22 : 10 : 15
+3 wait for new ts file 22 : 10 : 15
+0 wait for new ts file 22 : 10 : 15
+2 wait for new ts file 22 : 10 : 15
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 15
+1 wait for new ts file 22 : 10 : 16
+0 wait for new ts file 22 : 10 : 16
+4 wait for new ts file 22 : 10 : 16
+3 wait for new ts file 22 : 10 : 16
+2 wait for new ts file 22 : 10 : 16
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 16
+1 wait for new ts file 22 : 10 : 17
+0 wait for new ts file 22 : 10 : 17
+4 wait for new ts file 22 : 10 : 17
+3 wait for new ts file 22 : 10 : 17
+2 wait for new ts file 22 : 10 : 17
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 17
+1 wait for new ts file 22 : 10 : 18
+0 wait for new ts file 22 : 10 : 18
+4 wait for new ts file 22 : 10 : 18
+3 wait for new ts file 22 : 10 : 18
+2 wait for new ts file 22 : 10 : 18
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 18
+1 wait for new ts file 22 : 10 : 19
+0 wait for new ts file 22 : 10 : 19
+4 wait for new ts file 22 : 10 : 19
+3 wait for new ts file 22 : 10 : 19
+2 wait for new ts file 22 : 10 : 19
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 19
+1 wait for new ts file 22 : 10 : 20
+0 wait for new ts file 22 : 10 : 20
+4 wait for new ts file 22 : 10 : 20
+3 wait for new ts file 22 : 10 : 20
+2 wait for new ts file 22 : 10 : 20
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 20
+1 wait for new ts file 22 : 10 : 21
+0 wait for new ts file 22 : 10 : 21
+4 wait for new ts file 22 : 10 : 21
+3 wait for new ts file 22 : 10 : 21
+2 wait for new ts file 22 : 10 : 21
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 21
+1 wait for new ts file 22 : 10 : 22
+4 wait for new ts file 22 : 10 : 22
+0 wait for new ts file 22 : 10 : 22
+3 wait for new ts file 22 : 10 : 22
+2 wait for new ts file 22 : 10 : 22
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 22
+1 wait for new ts file 22 : 10 : 23
+0 wait for new ts file 22 : 10 : 23
+4 wait for new ts file 22 : 10 : 23
+3 wait for new ts file 22 : 10 : 23
+2 wait for new ts file 22 : 10 : 23
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 23
+1 wait for new ts file 22 : 10 : 24
+0 wait for new ts file 22 : 10 : 24
+3 wait for new ts file 22 : 10 : 24
+4 wait for new ts file 22 : 10 : 24
+2 wait for new ts file 22 : 10 : 24
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 24
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 25
+1 200 http://192.168.0.124:1935/live/nana/media_w448706747_31.ts 22 : 10 : 26
+4 200 http://192.168.0.124:1935/live/nana/media_w448706747_31.ts 22 : 10 : 26
+4 wait for new ts file 22 : 10 : 26
+3 wait for new ts file 22 : 10 : 26
+2 wait for new ts file 22 : 10 : 26
+1 wait for new ts file 22 : 10 : 26
+0 wait for new ts file 22 : 10 : 26
+0 200 http://192.168.0.124:1935/live/nana/media_w448706747_31.ts 22 : 10 : 27
+2 200 http://192.168.0.124:1935/live/nana/media_w448706747_31.ts 22 : 10 : 27
+3 200 http://192.168.0.124:1935/live/nana/media_w448706747_31.ts 22 : 10 : 27
+1 wait for new ts file 22 : 10 : 27
+0 wait for new ts file 22 : 10 : 27
+3 wait for new ts file 22 : 10 : 27
+4 wait for new ts file 22 : 10 : 27
+2 wait for new ts file 22 : 10 : 27
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 27
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 27
+1 wait for new ts file 22 : 10 : 28
+0 wait for new ts file 22 : 10 : 28
+4 wait for new ts file 22 : 10 : 28
+3 wait for new ts file 22 : 10 : 28
+2 wait for new ts file 22 : 10 : 28
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 28
+1 wait for new ts file 22 : 10 : 29
+0 wait for new ts file 22 : 10 : 29
+4 wait for new ts file 22 : 10 : 29
+3 wait for new ts file 22 : 10 : 29
+2 wait for new ts file 22 : 10 : 29
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 29
+1 wait for new ts file 22 : 10 : 30
+0 wait for new ts file 22 : 10 : 30
+4 wait for new ts file 22 : 10 : 30
+3 wait for new ts file 22 : 10 : 30
+2 wait for new ts file 22 : 10 : 30
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 30
+1 wait for new ts file 22 : 10 : 31
+0 wait for new ts file 22 : 10 : 31
+4 wait for new ts file 22 : 10 : 31
+3 wait for new ts file 22 : 10 : 31
+2 wait for new ts file 22 : 10 : 31
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 31
+1 wait for new ts file 22 : 10 : 32
+0 wait for new ts file 22 : 10 : 32
+4 wait for new ts file 22 : 10 : 32
+3 wait for new ts file 22 : 10 : 32
+2 wait for new ts file 22 : 10 : 32
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 32
+1 wait for new ts file 22 : 10 : 33
+0 wait for new ts file 22 : 10 : 33
+4 wait for new ts file 22 : 10 : 33
+3 wait for new ts file 22 : 10 : 33
+2 wait for new ts file 22 : 10 : 33
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 33
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 34
+3 200 http://192.168.0.124:1935/live/nana/media_w448706747_32.ts 22 : 10 : 35
+0 200 http://192.168.0.124:1935/live/nana/media_w448706747_32.ts 22 : 10 : 35
+1 200 http://192.168.0.124:1935/live/nana/media_w448706747_32.ts 22 : 10 : 35
+2 200 http://192.168.0.124:1935/live/nana/media_w448706747_32.ts 22 : 10 : 36
+4 200 http://192.168.0.124:1935/live/nana/media_w448706747_32.ts 22 : 10 : 36
+1 wait for new ts file 22 : 10 : 36
+0 wait for new ts file 22 : 10 : 36
+4 wait for new ts file 22 : 10 : 36
+3 wait for new ts file 22 : 10 : 36
+2 wait for new ts file 22 : 10 : 36
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 36
+1 wait for new ts file 22 : 10 : 37
+0 wait for new ts file 22 : 10 : 37
+4 wait for new ts file 22 : 10 : 37
+3 wait for new ts file 22 : 10 : 37
+2 wait for new ts file 22 : 10 : 37
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 37
+1 wait for new ts file 22 : 10 : 38
+4 wait for new ts file 22 : 10 : 38
+0 wait for new ts file 22 : 10 : 38
+3 wait for new ts file 22 : 10 : 38
+2 wait for new ts file 22 : 10 : 38
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 38
+1 wait for new ts file 22 : 10 : 39
+0 wait for new ts file 22 : 10 : 39
+4 wait for new ts file 22 : 10 : 39
+3 wait for new ts file 22 : 10 : 39
+2 wait for new ts file 22 : 10 : 39
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 39
+1 wait for new ts file 22 : 10 : 40
+0 wait for new ts file 22 : 10 : 40
+4 wait for new ts file 22 : 10 : 40
+3 wait for new ts file 22 : 10 : 40
+2 wait for new ts file 22 : 10 : 40
+200 http://192.168.0.124:1935/live/nana/chunklist_w448706747.m3u8 22 : 10 : 40
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 10 : 41
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 10 : 41
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_30.ts 22 : 10 : 42
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_30.ts 22 : 10 : 44
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_30.ts 22 : 10 : 46
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_30.ts 22 : 10 : 46
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 10 : 46
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_30.ts 22 : 10 : 47
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_31.ts 22 : 10 : 47
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_31.ts 22 : 10 : 49
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_31.ts 22 : 10 : 51
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_31.ts 22 : 10 : 51
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 10 : 51
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_31.ts 22 : 10 : 52
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_32.ts 22 : 10 : 52
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_32.ts 22 : 10 : 54
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_32.ts 22 : 10 : 56
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_32.ts 22 : 10 : 56
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 10 : 56
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_32.ts 22 : 10 : 57
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_33.ts 22 : 10 : 57
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_33.ts 22 : 10 : 59
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_33.ts 22 : 11 : 1
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_33.ts 22 : 11 : 1
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 1
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_33.ts 22 : 11 : 2
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_34.ts 22 : 11 : 2
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_34.ts 22 : 11 : 4
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_34.ts 22 : 11 : 6
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_34.ts 22 : 11 : 6
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 6
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_34.ts 22 : 11 : 7
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_35.ts 22 : 11 : 7
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_35.ts 22 : 11 : 9
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_35.ts 22 : 11 : 11
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_35.ts 22 : 11 : 11
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 11
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_35.ts 22 : 11 : 12
+4 wait for new ts file 22 : 11 : 12
+0 wait for new ts file 22 : 11 : 14
+1 wait for new ts file 22 : 11 : 15
+3 wait for new ts file 22 : 11 : 15
+2 wait for new ts file 22 : 11 : 16
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 16
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_36.ts 22 : 11 : 17
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_36.ts 22 : 11 : 19
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_36.ts 22 : 11 : 21
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_36.ts 22 : 11 : 21
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 21
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_36.ts 22 : 11 : 22
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_37.ts 22 : 11 : 22
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_37.ts 22 : 11 : 24
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_37.ts 22 : 11 : 26
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_37.ts 22 : 11 : 26
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 26
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_37.ts 22 : 11 : 27
+4 wait for new ts file 22 : 11 : 27
+0 wait for new ts file 22 : 11 : 29
+1 wait for new ts file 22 : 11 : 30
+3 wait for new ts file 22 : 11 : 30
+2 wait for new ts file 22 : 11 : 31
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 31
+4 wait for new ts file 22 : 11 : 32
+0 wait for new ts file 22 : 11 : 34
+1 wait for new ts file 22 : 11 : 35
+3 wait for new ts file 22 : 11 : 35
+2 wait for new ts file 22 : 11 : 36
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 36
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_38.ts 22 : 11 : 37
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_38.ts 22 : 11 : 39
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_38.ts 22 : 11 : 41
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_38.ts 22 : 11 : 41
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 41
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_38.ts 22 : 11 : 42
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_39.ts 22 : 11 : 42
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_39.ts 22 : 11 : 44
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_39.ts 22 : 11 : 46
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_39.ts 22 : 11 : 46
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 46
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_39.ts 22 : 11 : 47
+4 wait for new ts file 22 : 11 : 47
+0 wait for new ts file 22 : 11 : 49
+1 wait for new ts file 22 : 11 : 50
+3 wait for new ts file 22 : 11 : 50
+2 wait for new ts file 22 : 11 : 51
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 51
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_40.ts 22 : 11 : 52
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_40.ts 22 : 11 : 54
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_40.ts 22 : 11 : 56
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_40.ts 22 : 11 : 56
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 11 : 56
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_40.ts 22 : 11 : 57
+4 wait for new ts file 22 : 11 : 57
+0 wait for new ts file 22 : 11 : 59
+1 wait for new ts file 22 : 12 : 0
+3 wait for new ts file 22 : 12 : 0
+2 wait for new ts file 22 : 12 : 1
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 1
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_41.ts 22 : 12 : 2
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_41.ts 22 : 12 : 4
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_41.ts 22 : 12 : 6
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_41.ts 22 : 12 : 6
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 6
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_41.ts 22 : 12 : 7
+4 wait for new ts file 22 : 12 : 7
+0 wait for new ts file 22 : 12 : 9
+1 wait for new ts file 22 : 12 : 10
+3 wait for new ts file 22 : 12 : 10
+2 wait for new ts file 22 : 12 : 11
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 11
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_42.ts 22 : 12 : 12
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_42.ts 22 : 12 : 14
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_42.ts 22 : 12 : 16
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_42.ts 22 : 12 : 16
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 16
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_42.ts 22 : 12 : 17
+4 wait for new ts file 22 : 12 : 17
+0 wait for new ts file 22 : 12 : 19
+1 wait for new ts file 22 : 12 : 20
+3 wait for new ts file 22 : 12 : 20
+2 wait for new ts file 22 : 12 : 21
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 21
+4 wait for new ts file 22 : 12 : 22
+0 wait for new ts file 22 : 12 : 24
+1 wait for new ts file 22 : 12 : 25
+3 wait for new ts file 22 : 12 : 25
+2 wait for new ts file 22 : 12 : 26
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 26
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_43.ts 22 : 12 : 27
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_43.ts 22 : 12 : 29
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_43.ts 22 : 12 : 31
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_43.ts 22 : 12 : 31
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 32
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_43.ts 22 : 12 : 32
+4 wait for new ts file 22 : 12 : 32
+0 wait for new ts file 22 : 12 : 34
+1 wait for new ts file 22 : 12 : 35
+3 wait for new ts file 22 : 12 : 35
+2 wait for new ts file 22 : 12 : 36
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 37
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_44.ts 22 : 12 : 37
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_44.ts 22 : 12 : 39
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_44.ts 22 : 12 : 41
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_44.ts 22 : 12 : 41
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 42
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_44.ts 22 : 12 : 42
+4 wait for new ts file 22 : 12 : 42
+0 wait for new ts file 22 : 12 : 44
+1 wait for new ts file 22 : 12 : 45
+3 wait for new ts file 22 : 12 : 45
+2 wait for new ts file 22 : 12 : 46
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 47
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_45.ts 22 : 12 : 47
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_45.ts 22 : 12 : 49
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_45.ts 22 : 12 : 51
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_45.ts 22 : 12 : 51
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 52
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_45.ts 22 : 12 : 52
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_46.ts 22 : 12 : 52
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_46.ts 22 : 12 : 54
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_46.ts 22 : 12 : 56
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_46.ts 22 : 12 : 56
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 12 : 57
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_46.ts 22 : 12 : 57
+4 wait for new ts file 22 : 12 : 57
+0 wait for new ts file 22 : 12 : 59
+1 wait for new ts file 22 : 13 : 0
+3 wait for new ts file 22 : 13 : 0
+2 wait for new ts file 22 : 13 : 2
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 2
+4 wait for new ts file 22 : 13 : 2
+0 wait for new ts file 22 : 13 : 4
+1 wait for new ts file 22 : 13 : 5
+3 wait for new ts file 22 : 13 : 5
+2 wait for new ts file 22 : 13 : 7
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 7
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_47.ts 22 : 13 : 7
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_47.ts 22 : 13 : 9
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_47.ts 22 : 13 : 11
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_47.ts 22 : 13 : 11
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 12
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_47.ts 22 : 13 : 12
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_48.ts 22 : 13 : 12
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_48.ts 22 : 13 : 14
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_48.ts 22 : 13 : 16
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_48.ts 22 : 13 : 16
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 17
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_48.ts 22 : 13 : 17
+4 wait for new ts file 22 : 13 : 17
+0 wait for new ts file 22 : 13 : 19
+1 wait for new ts file 22 : 13 : 20
+3 wait for new ts file 22 : 13 : 20
+2 wait for new ts file 22 : 13 : 22
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 22
+4 wait for new ts file 22 : 13 : 22
+0 wait for new ts file 22 : 13 : 24
+1 wait for new ts file 22 : 13 : 25
+3 wait for new ts file 22 : 13 : 25
+2 wait for new ts file 22 : 13 : 27
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 27
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_49.ts 22 : 13 : 27
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_49.ts 22 : 13 : 29
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_49.ts 22 : 13 : 31
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_49.ts 22 : 13 : 31
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 32
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_49.ts 22 : 13 : 32
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_50.ts 22 : 13 : 32
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_50.ts 22 : 13 : 34
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_50.ts 22 : 13 : 36
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_50.ts 22 : 13 : 36
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 37
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_50.ts 22 : 13 : 37
+4 wait for new ts file 22 : 13 : 37
+0 wait for new ts file 22 : 13 : 39
+1 wait for new ts file 22 : 13 : 41
+3 wait for new ts file 22 : 13 : 41
+2 wait for new ts file 22 : 13 : 42
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 42
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_51.ts 22 : 13 : 42
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_51.ts 22 : 13 : 44
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_51.ts 22 : 13 : 46
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_51.ts 22 : 13 : 46
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 47
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_51.ts 22 : 13 : 47
+4 wait for new ts file 22 : 13 : 47
+0 wait for new ts file 22 : 13 : 49
+1 wait for new ts file 22 : 13 : 51
+3 wait for new ts file 22 : 13 : 51
+2 wait for new ts file 22 : 13 : 52
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 52
+4 wait for new ts file 22 : 13 : 52
+0 wait for new ts file 22 : 13 : 54
+1 wait for new ts file 22 : 13 : 56
+3 wait for new ts file 22 : 13 : 56
+2 wait for new ts file 22 : 13 : 57
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 13 : 57
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_52.ts 22 : 13 : 58
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_52.ts 22 : 13 : 59
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_52.ts 22 : 14 : 1
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_52.ts 22 : 14 : 2
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 2
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_52.ts 22 : 14 : 2
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_53.ts 22 : 14 : 2
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_53.ts 22 : 14 : 4
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_53.ts 22 : 14 : 6
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_53.ts 22 : 14 : 6
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 7
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_53.ts 22 : 14 : 7
+4 wait for new ts file 22 : 14 : 7
+0 wait for new ts file 22 : 14 : 9
+1 wait for new ts file 22 : 14 : 11
+3 wait for new ts file 22 : 14 : 11
+2 wait for new ts file 22 : 14 : 12
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 12
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_54.ts 22 : 14 : 13
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_54.ts 22 : 14 : 14
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_54.ts 22 : 14 : 16
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_54.ts 22 : 14 : 16
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 17
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_54.ts 22 : 14 : 17
+4 wait for new ts file 22 : 14 : 17
+0 wait for new ts file 22 : 14 : 19
+1 wait for new ts file 22 : 14 : 21
+3 wait for new ts file 22 : 14 : 21
+2 wait for new ts file 22 : 14 : 22
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 22
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_55.ts 22 : 14 : 22
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_55.ts 22 : 14 : 24
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_55.ts 22 : 14 : 26
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_55.ts 22 : 14 : 26
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 27
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_55.ts 22 : 14 : 27
+4 wait for new ts file 22 : 14 : 27
+0 wait for new ts file 22 : 14 : 29
+1 wait for new ts file 22 : 14 : 31
+3 wait for new ts file 22 : 14 : 31
+2 wait for new ts file 22 : 14 : 32
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 32
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_56.ts 22 : 14 : 33
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_56.ts 22 : 14 : 34
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_56.ts 22 : 14 : 36
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_56.ts 22 : 14 : 36
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 37
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_56.ts 22 : 14 : 37
+4 wait for new ts file 22 : 14 : 37
+0 wait for new ts file 22 : 14 : 39
+1 wait for new ts file 22 : 14 : 41
+3 wait for new ts file 22 : 14 : 41
+2 wait for new ts file 22 : 14 : 42
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 42
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_57.ts 22 : 14 : 42
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_57.ts 22 : 14 : 44
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_57.ts 22 : 14 : 46
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_57.ts 22 : 14 : 46
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 47
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_57.ts 22 : 14 : 47
+4 wait for new ts file 22 : 14 : 47
+0 wait for new ts file 22 : 14 : 49
+1 wait for new ts file 22 : 14 : 51
+3 wait for new ts file 22 : 14 : 51
+2 wait for new ts file 22 : 14 : 52
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 52
+4 wait for new ts file 22 : 14 : 52
+0 wait for new ts file 22 : 14 : 54
+1 wait for new ts file 22 : 14 : 56
+3 wait for new ts file 22 : 14 : 56
+2 wait for new ts file 22 : 14 : 57
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 14 : 57
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_58.ts 22 : 14 : 58
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_58.ts 22 : 14 : 59
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_58.ts 22 : 15 : 1
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_58.ts 22 : 15 : 1
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 2
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_58.ts 22 : 15 : 2
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_59.ts 22 : 15 : 2
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_59.ts 22 : 15 : 4
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_59.ts 22 : 15 : 6
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_59.ts 22 : 15 : 6
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 7
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_59.ts 22 : 15 : 7
+4 wait for new ts file 22 : 15 : 7
+0 wait for new ts file 22 : 15 : 9
+1 wait for new ts file 22 : 15 : 11
+3 wait for new ts file 22 : 15 : 11
+2 wait for new ts file 22 : 15 : 12
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 12
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_60.ts 22 : 15 : 13
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_60.ts 22 : 15 : 14
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_60.ts 22 : 15 : 16
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_60.ts 22 : 15 : 16
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 17
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_60.ts 22 : 15 : 17
+4 wait for new ts file 22 : 15 : 17
+0 wait for new ts file 22 : 15 : 19
+1 wait for new ts file 22 : 15 : 21
+3 wait for new ts file 22 : 15 : 21
+2 wait for new ts file 22 : 15 : 22
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 22
+4 wait for new ts file 22 : 15 : 22
+0 wait for new ts file 22 : 15 : 24
+1 wait for new ts file 22 : 15 : 26
+3 wait for new ts file 22 : 15 : 26
+2 wait for new ts file 22 : 15 : 27
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 27
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_61.ts 22 : 15 : 28
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_61.ts 22 : 15 : 30
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_61.ts 22 : 15 : 31
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_61.ts 22 : 15 : 31
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 32
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_61.ts 22 : 15 : 32
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_62.ts 22 : 15 : 33
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_62.ts 22 : 15 : 34
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_62.ts 22 : 15 : 36
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_62.ts 22 : 15 : 36
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 37
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_62.ts 22 : 15 : 37
+4 wait for new ts file 22 : 15 : 37
+0 wait for new ts file 22 : 15 : 39
+1 wait for new ts file 22 : 15 : 41
+3 wait for new ts file 22 : 15 : 41
+2 wait for new ts file 22 : 15 : 42
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 42
+4 wait for new ts file 22 : 15 : 42
+0 wait for new ts file 22 : 15 : 44
+1 wait for new ts file 22 : 15 : 46
+3 wait for new ts file 22 : 15 : 46
+2 wait for new ts file 22 : 15 : 47
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 47
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_63.ts 22 : 15 : 48
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_63.ts 22 : 15 : 50
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_63.ts 22 : 15 : 51
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_63.ts 22 : 15 : 51
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 52
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_63.ts 22 : 15 : 52
+4 wait for new ts file 22 : 15 : 52
+0 wait for new ts file 22 : 15 : 54
+1 wait for new ts file 22 : 15 : 56
+3 wait for new ts file 22 : 15 : 56
+2 wait for new ts file 22 : 15 : 57
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 15 : 57
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_64.ts 22 : 15 : 58
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_64.ts 22 : 15 : 59
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_64.ts 22 : 16 : 1
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_64.ts 22 : 16 : 1
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 16 : 2
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_64.ts 22 : 16 : 2
+4 wait for new ts file 22 : 16 : 2
+0 wait for new ts file 22 : 16 : 4
+1 wait for new ts file 22 : 16 : 6
+3 wait for new ts file 22 : 16 : 6
+2 wait for new ts file 22 : 16 : 7
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 16 : 7
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_65.ts 22 : 16 : 8
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_65.ts 22 : 16 : 10
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_65.ts 22 : 16 : 11
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_65.ts 22 : 16 : 12
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 16 : 12
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_65.ts 22 : 16 : 12
+4 wait for new ts file 22 : 16 : 12
+0 wait for new ts file 22 : 16 : 14
+1 wait for new ts file 22 : 16 : 16
+3 wait for new ts file 22 : 16 : 16
+2 wait for new ts file 22 : 16 : 17
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 16 : 17
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_66.ts 22 : 16 : 18
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_66.ts 22 : 16 : 19
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_66.ts 22 : 16 : 21
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_66.ts 22 : 16 : 21
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 16 : 22
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_66.ts 22 : 16 : 22
+4 wait for new ts file 22 : 16 : 22
+0 wait for new ts file 22 : 16 : 24
+1 wait for new ts file 22 : 16 : 26
+3 wait for new ts file 22 : 16 : 26
+2 wait for new ts file 22 : 16 : 27
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 16 : 27
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_67.ts 22 : 16 : 28
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_67.ts 22 : 16 : 30
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_67.ts 22 : 16 : 31
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_67.ts 22 : 16 : 32
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 16 : 32
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_67.ts 22 : 16 : 32
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_68.ts 22 : 16 : 33
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_68.ts 22 : 16 : 34
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_68.ts 22 : 16 : 36
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_68.ts 22 : 16 : 36
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 16 : 37
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_68.ts 22 : 16 : 37
+4 wait for new ts file 22 : 16 : 37
+0 wait for new ts file 22 : 16 : 39
+1 wait for new ts file 22 : 16 : 41
+3 wait for new ts file 22 : 16 : 41
+2 wait for new ts file 22 : 16 : 42
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 16 : 42
+4 wait for new ts file 22 : 16 : 42
+0 wait for new ts file 22 : 16 : 44
+1 wait for new ts file 22 : 16 : 46
+3 wait for new ts file 22 : 16 : 46
+2 wait for new ts file 22 : 16 : 47
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 16 : 47
+4 200 http://192.168.0.124:1935/live/nana/media_w675783853_69.ts 22 : 16 : 48
+0 200 http://192.168.0.124:1935/live/nana/media_w675783853_69.ts 22 : 16 : 50
+1 200 http://192.168.0.124:1935/live/nana/media_w675783853_69.ts 22 : 16 : 51
+3 200 http://192.168.0.124:1935/live/nana/media_w675783853_69.ts 22 : 16 : 52
+200 http://192.168.0.124:1935/live/nana/chunklist_w675783853.m3u8 22 : 16 : 52
+2 200 http://192.168.0.124:1935/live/nana/media_w675783853_69.ts 22 : 16 : 52
+4 wait for new ts file 22 : 16 : 52
+0 wait for new ts file 22 : 16 : 54
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 16 : 55
+200 http://192.168.0.124:1935/live/nana/chunklist_w110497780.m3u8 22 : 16 : 56
+200 http://192.168.0.124:1935/live/nana/chunklist_w110497780.m3u8 22 : 17 : 6
+1 200 http://192.168.0.124:1935/live/nana/media_w110497780_68.ts 22 : 17 : 6
+0 200 http://192.168.0.124:1935/live/nana/media_w110497780_68.ts 22 : 17 : 6
+3 200 http://192.168.0.124:1935/live/nana/media_w110497780_68.ts 22 : 17 : 6
+2 200 http://192.168.0.124:1935/live/nana/media_w110497780_68.ts 22 : 17 : 6
+4 200 http://192.168.0.124:1935/live/nana/media_w110497780_68.ts 22 : 17 : 10
+200 http://192.168.0.124:1935/live/nana/chunklist_w110497780.m3u8 22 : 17 : 11
+1 200 http://192.168.0.124:1935/live/nana/media_w110497780_69.ts 22 : 17 : 11
+0 200 http://192.168.0.124:1935/live/nana/media_w110497780_69.ts 22 : 17 : 11
+3 200 http://192.168.0.124:1935/live/nana/media_w110497780_69.ts 22 : 17 : 12
+2 200 http://192.168.0.124:1935/live/nana/media_w110497780_69.ts 22 : 17 : 12
+4 200 http://192.168.0.124:1935/live/nana/media_w110497780_69.ts 22 : 17 : 15
+200 http://192.168.0.124:1935/live/nana/chunklist_w110497780.m3u8 22 : 17 : 16
+0 200 http://192.168.0.124:1935/live/nana/media_w110497780_70.ts 22 : 17 : 16
+1 200 http://192.168.0.124:1935/live/nana/media_w110497780_70.ts 22 : 17 : 17
+3 200 http://192.168.0.124:1935/live/nana/media_w110497780_70.ts 22 : 17 : 17
+2 200 http://192.168.0.124:1935/live/nana/media_w110497780_70.ts 22 : 17 : 17
+4 200 http://192.168.0.124:1935/live/nana/media_w110497780_70.ts 22 : 17 : 20
+200 http://192.168.0.124:1935/live/nana/chunklist_w110497780.m3u8 22 : 17 : 21
+1 200 http://192.168.0.124:1935/live/nana/media_w110497780_71.ts 22 : 17 : 21
+0 200 http://192.168.0.124:1935/live/nana/media_w110497780_71.ts 22 : 17 : 21
+3 200 http://192.168.0.124:1935/live/nana/media_w110497780_71.ts 22 : 17 : 22
+2 200 http://192.168.0.124:1935/live/nana/media_w110497780_71.ts 22 : 17 : 22
+4 200 http://192.168.0.124:1935/live/nana/media_w110497780_71.ts 22 : 17 : 25
+200 http://192.168.0.124:1935/live/nana/chunklist_w110497780.m3u8 22 : 17 : 26
+0 200 http://192.168.0.124:1935/live/nana/media_w110497780_72.ts 22 : 17 : 26
+1 200 http://192.168.0.124:1935/live/nana/media_w110497780_72.ts 22 : 17 : 26
+3 200 http://192.168.0.124:1935/live/nana/media_w110497780_72.ts 22 : 17 : 27
+2 200 http://192.168.0.124:1935/live/nana/media_w110497780_72.ts 22 : 17 : 27
+4 200 http://192.168.0.124:1935/live/nana/media_w110497780_72.ts 22 : 17 : 30
+200 http://192.168.0.124:1935/live/nana/chunklist_w110497780.m3u8 22 : 17 : 31
+1 200 http://192.168.0.124:1935/live/nana/media_w110497780_73.ts 22 : 17 : 31
+0 200 http://192.168.0.124:1935/live/nana/media_w110497780_73.ts 22 : 17 : 31
+3 200 http://192.168.0.124:1935/live/nana/media_w110497780_73.ts 22 : 17 : 32
+2 200 http://192.168.0.124:1935/live/nana/media_w110497780_73.ts 22 : 17 : 32
+4 200 http://192.168.0.124:1935/live/nana/media_w110497780_73.ts 22 : 17 : 35
+1 wait for new ts file 22 : 17 : 36
+0 wait for new ts file 22 : 17 : 36
+3 wait for new ts file 22 : 17 : 36
+200 http://192.168.0.124:1935/live/nana/chunklist_w110497780.m3u8 22 : 17 : 36
+2 200 http://192.168.0.124:1935/live/nana/media_w110497780_74.ts 22 : 17 : 37
+4 200 http://192.168.0.124:1935/live/nana/media_w110497780_74.ts 22 : 17 : 40
+200 http://192.168.0.124:1935/live/nana/chunklist_w110497780.m3u8 22 : 17 : 41
+1 200 http://192.168.0.124:1935/live/nana/media_w110497780_74.ts 22 : 17 : 41
+0 200 http://192.168.0.124:1935/live/nana/media_w110497780_74.ts 22 : 17 : 41
+2 wait for new ts file 22 : 17 : 41
+3 200 http://192.168.0.124:1935/live/nana/media_w110497780_74.ts 22 : 17 : 42
+4 wait for new ts file 22 : 17 : 45
+1 wait for new ts file 22 : 17 : 46
+0 wait for new ts file 22 : 17 : 46
+3 wait for new ts file 22 : 17 : 46
+200 http://192.168.0.124:1935/live/nana/chunklist_w110497780.m3u8 22 : 17 : 46
+2 200 http://192.168.0.124:1935/live/nana/media_w110497780_75.ts 22 : 17 : 47
+4 200 http://192.168.0.124:1935/live/nana/media_w110497780_75.ts 22 : 17 : 50
+200 http://192.168.0.124:1935/live/nana/chunklist_w110497780.m3u8 22 : 17 : 51
+1 200 http://192.168.0.124:1935/live/nana/media_w110497780_75.ts 22 : 17 : 51
+2 wait for new ts file 22 : 17 : 51
+3 200 http://192.168.0.124:1935/live/nana/media_w110497780_75.ts 22 : 17 : 51
+0 200 http://192.168.0.124:1935/live/nana/media_w110497780_75.ts 22 : 17 : 52
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 17 : 53
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 18 : 19
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 18 : 45
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 18 : 45
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 19 : 22
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_79.ts 22 : 19 : 23
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_79.ts 22 : 19 : 24
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_79.ts 22 : 19 : 23
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_79.ts 22 : 19 : 23
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_79.ts 22 : 19 : 26
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 19 : 27
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_80.ts 22 : 19 : 28
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_80.ts 22 : 19 : 28
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_80.ts 22 : 19 : 28
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_80.ts 22 : 19 : 28
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_80.ts 22 : 19 : 31
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 19 : 32
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_81.ts 22 : 19 : 33
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_81.ts 22 : 19 : 33
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_81.ts 22 : 19 : 33
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_81.ts 22 : 19 : 33
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_81.ts 22 : 19 : 36
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 19 : 37
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_82.ts 22 : 19 : 38
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_82.ts 22 : 19 : 38
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_82.ts 22 : 19 : 38
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_82.ts 22 : 19 : 39
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_82.ts 22 : 19 : 41
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 19 : 42
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_83.ts 22 : 19 : 43
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_83.ts 22 : 19 : 43
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_83.ts 22 : 19 : 43
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_83.ts 22 : 19 : 43
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_83.ts 22 : 19 : 46
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 19 : 47
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_84.ts 22 : 19 : 48
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_84.ts 22 : 19 : 48
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_84.ts 22 : 19 : 48
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_84.ts 22 : 19 : 49
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_84.ts 22 : 19 : 51
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 19 : 52
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_85.ts 22 : 19 : 53
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_85.ts 22 : 19 : 53
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_85.ts 22 : 19 : 53
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_85.ts 22 : 19 : 54
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_85.ts 22 : 19 : 56
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 19 : 57
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_86.ts 22 : 19 : 58
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_86.ts 22 : 19 : 58
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_86.ts 22 : 19 : 59
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_86.ts 22 : 19 : 59
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_86.ts 22 : 20 : 1
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 2
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_87.ts 22 : 20 : 3
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_87.ts 22 : 20 : 3
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_87.ts 22 : 20 : 3
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_87.ts 22 : 20 : 3
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_87.ts 22 : 20 : 6
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 7
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_88.ts 22 : 20 : 8
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_88.ts 22 : 20 : 8
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_88.ts 22 : 20 : 9
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_88.ts 22 : 20 : 9
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_88.ts 22 : 20 : 11
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 12
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_89.ts 22 : 20 : 13
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_89.ts 22 : 20 : 13
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_89.ts 22 : 20 : 13
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_89.ts 22 : 20 : 13
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_89.ts 22 : 20 : 16
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 17
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_90.ts 22 : 20 : 18
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_90.ts 22 : 20 : 18
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_90.ts 22 : 20 : 18
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_90.ts 22 : 20 : 19
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_90.ts 22 : 20 : 21
+0 wait for new ts file 22 : 20 : 22
+1 wait for new ts file 22 : 20 : 22
+2 wait for new ts file 22 : 20 : 22
+3 wait for new ts file 22 : 20 : 22
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 22
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_91.ts 22 : 20 : 26
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 27
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_91.ts 22 : 20 : 28
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_91.ts 22 : 20 : 28
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_91.ts 22 : 20 : 28
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_91.ts 22 : 20 : 29
+4 wait for new ts file 22 : 20 : 31
+0 wait for new ts file 22 : 20 : 32
+1 wait for new ts file 22 : 20 : 32
+2 wait for new ts file 22 : 20 : 32
+3 wait for new ts file 22 : 20 : 32
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 32
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_92.ts 22 : 20 : 36
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 37
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_92.ts 22 : 20 : 38
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_92.ts 22 : 20 : 38
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_92.ts 22 : 20 : 38
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_92.ts 22 : 20 : 39
+4 wait for new ts file 22 : 20 : 41
+0 wait for new ts file 22 : 20 : 42
+1 wait for new ts file 22 : 20 : 42
+2 wait for new ts file 22 : 20 : 42
+3 wait for new ts file 22 : 20 : 42
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 42
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_93.ts 22 : 20 : 46
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 47
+3 200 http://192.168.0.124:1935/live/nana/media_w1566583340_93.ts 22 : 20 : 48
+2 200 http://192.168.0.124:1935/live/nana/media_w1566583340_93.ts 22 : 20 : 48
+0 200 http://192.168.0.124:1935/live/nana/media_w1566583340_93.ts 22 : 20 : 48
+1 200 http://192.168.0.124:1935/live/nana/media_w1566583340_93.ts 22 : 20 : 49
+4 wait for new ts file 22 : 20 : 51
+0 wait for new ts file 22 : 20 : 52
+1 wait for new ts file 22 : 20 : 52
+2 wait for new ts file 22 : 20 : 52
+3 wait for new ts file 22 : 20 : 52
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 52
+4 wait for new ts file 22 : 20 : 56
+0 wait for new ts file 22 : 20 : 57
+1 wait for new ts file 22 : 20 : 57
+2 wait for new ts file 22 : 20 : 57
+3 wait for new ts file 22 : 20 : 57
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 20 : 57
+4 200 http://192.168.0.124:1935/live/nana/media_w1566583340_94.ts 22 : 21 : 1
+200 http://192.168.0.124:1935/live/nana/chunklist_w1566583340.m3u8 22 : 21 : 2
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 21 : 5
+200 http://192.168.0.124:1935/live/nana/chunklist_w828686351.m3u8 22 : 21 : 5
+200 http://192.168.0.124:1935/live/nana/chunklist_w828686351.m3u8 22 : 21 : 35
+2 200 http://192.168.0.124:1935/live/nana/media_w828686351_93.ts 22 : 21 : 36
+0 200 http://192.168.0.124:1935/live/nana/media_w828686351_93.ts 22 : 21 : 36
+1 200 http://192.168.0.124:1935/live/nana/media_w828686351_93.ts 22 : 21 : 36
+3 200 http://192.168.0.124:1935/live/nana/media_w828686351_93.ts 22 : 21 : 36
+4 200 http://192.168.0.124:1935/live/nana/media_w828686351_93.ts 22 : 21 : 37
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 21 : 40
+200 http://192.168.0.124:1935/live/nana/chunklist_w5415015.m3u8 22 : 21 : 40
+200 http://192.168.0.124:1935/live/nana/chunklist_w5415015.m3u8 22 : 21 : 53
+2 200 http://192.168.0.124:1935/live/nana/media_w5415015_96.ts 22 : 21 : 54
+1 200 http://192.168.0.124:1935/live/nana/media_w5415015_96.ts 22 : 21 : 54
+3 200 http://192.168.0.124:1935/live/nana/media_w5415015_96.ts 22 : 21 : 54
+0 200 http://192.168.0.124:1935/live/nana/media_w5415015_96.ts 22 : 21 : 55
+4 200 http://192.168.0.124:1935/live/nana/media_w5415015_96.ts 22 : 21 : 56
+200 http://192.168.0.124:1935/live/nana/chunklist_w5415015.m3u8 22 : 21 : 58
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 22 : 0
+200 http://192.168.0.124:1935/live/nana/chunklist_w476409055.m3u8 22 : 22 : 0
+200 http://192.168.0.124:1935/live/nana/chunklist_w476409055.m3u8 22 : 22 : 9
+1 200 http://192.168.0.124:1935/live/nana/media_w476409055_98.ts 22 : 22 : 10
+2 200 http://192.168.0.124:1935/live/nana/media_w476409055_98.ts 22 : 22 : 10
+0 200 http://192.168.0.124:1935/live/nana/media_w476409055_98.ts 22 : 22 : 10
+3 200 http://192.168.0.124:1935/live/nana/media_w476409055_98.ts 22 : 22 : 11
+4 200 http://192.168.0.124:1935/live/nana/media_w476409055_98.ts 22 : 22 : 12
+200 http://192.168.0.124:1935/live/nana/chunklist_w476409055.m3u8 22 : 22 : 14
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 22 : 15
+200 http://192.168.0.124:1935/live/nana/chunklist_w84076739.m3u8 22 : 22 : 15
+3 200 http://192.168.0.124:1935/live/nana/media_w84076739_100.ts 22 : 22 : 17
+2 200 http://192.168.0.124:1935/live/nana/media_w84076739_100.ts 22 : 22 : 17
+4 200 http://192.168.0.124:1935/live/nana/media_w84076739_100.ts 22 : 22 : 18
+1 200 http://192.168.0.124:1935/live/nana/media_w84076739_100.ts 22 : 22 : 18
+0 200 http://192.168.0.124:1935/live/nana/media_w84076739_100.ts 22 : 22 : 18
+200 http://192.168.0.124:1935/live/nana/chunklist_w84076739.m3u8 22 : 22 : 20
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 22 : 23
+200 http://192.168.0.124:1935/live/nana/chunklist_w1991827843.m3u8 22 : 22 : 23
+4 200 http://192.168.0.124:1935/live/nana/media_w1991827843_101.ts 22 : 22 : 24
+1 200 http://192.168.0.124:1935/live/nana/media_w1991827843_101.ts 22 : 22 : 25
+0 200 http://192.168.0.124:1935/live/nana/media_w1991827843_101.ts 22 : 22 : 25
+2 200 http://192.168.0.124:1935/live/nana/media_w1991827843_101.ts 22 : 22 : 27
+3 200 http://192.168.0.124:1935/live/nana/media_w1991827843_101.ts 22 : 22 : 28
+200 http://192.168.0.124:1935/live/nana/chunklist_w1991827843.m3u8 22 : 22 : 28
+4 200 http://192.168.0.124:1935/live/nana/media_w1991827843_102.ts 22 : 22 : 29
+0 200 http://192.168.0.124:1935/live/nana/media_w1991827843_102.ts 22 : 22 : 30
+1 200 http://192.168.0.124:1935/live/nana/media_w1991827843_102.ts 22 : 22 : 30
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 22 : 32
+200 http://192.168.0.124:1935/live/nana/chunklist_w707150571.m3u8 22 : 22 : 32
+2 200 http://192.168.0.124:1935/live/nana/media_w707150571_101.ts 22 : 22 : 33
+0 200 http://192.168.0.124:1935/live/nana/media_w707150571_101.ts 22 : 22 : 34
+1 200 http://192.168.0.124:1935/live/nana/media_w707150571_101.ts 22 : 22 : 35
+3 200 http://192.168.0.124:1935/live/nana/media_w707150571_101.ts 22 : 22 : 36
+4 200 http://192.168.0.124:1935/live/nana/media_w707150571_101.ts 22 : 22 : 37
+200 http://192.168.0.124:1935/live/nana/chunklist_w707150571.m3u8 22 : 22 : 37
+2 200 http://192.168.0.124:1935/live/nana/media_w707150571_102.ts 22 : 22 : 38
+0 200 http://192.168.0.124:1935/live/nana/media_w707150571_102.ts 22 : 22 : 39
+200 http://192.168.0.124:1935/live/nana/playlist.m3u8 22 : 22 : 40
+200 http://192.168.0.124:1935/live/nana/chunklist_w1967126775.m3u8 22 : 22 : 40
+2 200 http://192.168.0.124:1935/live/nana/media_w1967126775_102.ts 22 : 22 : 41
+4 200 http://192.168.0.124:1935/live/nana/media_w1967126775_102.ts 22 : 22 : 41
+0 200 http://192.168.0.124:1935/live/nana/media_w1967126775_102.ts 22 : 22 : 42
+1 200 http://192.168.0.124:1935/live/nana/media_w1967126775_102.ts 22 : 22 : 44
+3 200 http://192.168.0.124:1935/live/nana/media_w1967126775_102.ts 22 : 22 : 45
+200 http://192.168.0.124:1935/live/nana/chunklist_w1967126775.m3u8 22 : 22 : 45
