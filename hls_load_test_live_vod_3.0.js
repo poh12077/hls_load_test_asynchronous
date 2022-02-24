@@ -9,8 +9,8 @@ const base_url = 'http://192.168.0.124:1935/live/nana/playlist.m3u8';   //live
 //const base_url = 'http://10.0.4.101:8080/B120156699_EPI0001_02_t33.mp4/playlist.m3u8'; //solproxy 
 
 let buffer=[];
-let ts_duration = 5000;
-let load=5;
+let ts_duration = 10000;
+let load=3;
 let d=ts_duration/1000;
 
 let n = new Array(load);    //for request_ts_vod_fast
@@ -23,7 +23,19 @@ let parser_url = (url,buffer,i) =>
 {
    url = url.split('/');  //string to array
    url.pop();
-   buffer = buffer[i].split('/'); // string to array
+   if( typeof(buffer) == 'object' )
+   {
+    buffer = buffer[i].split('/');
+   }
+   else if ( typeof(buffer) == 'string' )
+   {
+      buffer = buffer.split('/');
+   }
+   else
+   {
+      console.log(" ERROR parser_url");
+      //return;
+   }
    
    url = duplication_eliminater(url,buffer);
 
@@ -51,7 +63,6 @@ let request_first_m3u8 = (url) =>
   .then( (response) => 
   {
         logger(response.status + " " + response.config.url);
-        //logger_request(response.status + " " + response.config.url, id);
         console.log( response.status + " " + response.config.url);
         buffer = response.data.split("\n");
         parser_m3u8(buffer, url);
@@ -99,17 +110,13 @@ let request_second_m3u8 = (url) =>
        }
        else
        {
-            buffer = buffer_cleaner(buffer);
-            
-            for(let i=0;i<buffer.length;i++)
-            {
-              buffer[i] = parser_url(url,buffer,i);
-            }
+        buffer = buffer[buffer.length-2];  //array -> string
+        buffer = parser_url(url,buffer,0);
 
             startInterval(request_live_m3u8, url, ts_duration);
-           // startInterval(brabranch_every_secondnch, request_ts_live, 1000, 'immediate');
+           // startInterval(brabranch_every_second, request_ts_live, 1000, 'immediate');
            // branch_all_together(request_ts_live);
-           branch_ramdomly(request_ts_live);
+          branch_ramdomly(request_ts_live);
        }
   })
   .catch( (error) => {
@@ -165,7 +172,6 @@ let parser_m3u8 = (buffer, url) =>
         if ( buffer[i].slice(-4) == "m3u8" )
         {
                 url = parser_url(url,buffer,i);
-               // startInterval(request_first_m3u8, url, ts_duration );
                request_second_m3u8(url);
                 return 0;    //break ABR
         }
@@ -181,28 +187,22 @@ let duplication_eliminater = (array_1, array_2) =>
 
 let request_live_m3u8 = (url) =>
 {
-    let m3u8=[];
     axios.get(url)
   .then( (response) => 
   {
        // logger_time(id);
         logger(response.status + " " + response.config.url);
         console.log( response.status + " " + response.config.url);
-        m3u8 = response.data.split("\n");
-        m3u8 = buffer_cleaner(m3u8);
-       
-        for(let i=0;i<m3u8.length;i++)
-        {
-          m3u8[i] = parser_url(url,m3u8,i);
-        }
-
-        buffer = duplication_eliminater(buffer,m3u8);
+        buffer = response.data.split("\n");
+        buffer = buffer[buffer.length-2];
+        buffer = parser_url(url,buffer,0);
   })
   .catch( (error) => {
       logger(error);
     console.log(error);
   });
 }
+
 
 let startInterval = (callback, x, time, immediate) => 
 {
@@ -220,14 +220,7 @@ let startInterval = (callback, x, time, immediate) =>
 
 let request_ts_live = (id) =>
 {
-  if(n[id]>=buffer.length)
-  {
-    console.log(id + " " + "wait for new ts file");
-    logger("wait for new ts file", id);
-    return;
-  }
-
-  axios.get( buffer[ n[id] ] )
+  axios.get( buffer )
   .then( (response) => 
   {
       console.log(id + " " + response.status + " " + response.config.url );
@@ -236,21 +229,18 @@ let request_ts_live = (id) =>
   .catch( (error) => {
     console.log(id + " " + error);
     logger(error, id);
-  })
-  .then();
-
-  n[id]++;
-  // only for vod 
+  });
 }
+
 
 let request_ts_vod = (id, stop )=>
 {
     axios.get( buffer[ n[id] ] )
-    .then( (response) => 
-    {
-        console.log(id + " " + response.status + " " + response.config.url );
-        logger(response.status + " " + response.config.url , id);
-    })
+     .then( (response) => 
+     {
+       // console.log(id + " " + response.status + " " + response.config.url );
+        // logger(response.status + " " + response.config.url , id);
+     })
     .catch( (error) => {
       console.log(id + " " + error);
       logger(error, id);
